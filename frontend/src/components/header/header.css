@@ -1,0 +1,24 @@
+.headerImg{
+    
+    width: 100%;
+    object-fit: cover;
+}
+
+.headerTitles{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.headerTitleSmall{
+    position: absolute;
+    top:18%;
+    font-size: 20px;
+}
+.headerTitleBig{
+    color: rgb(35, 35, 35);
+    font-style: cursive;
+    position: absolute;
+    top:20%;
+    font-size: 100px;
+}
